@@ -1,0 +1,11 @@
+:root {
+    /* cores */
+
+    --cor-principal: #667085;
+    --cor-destaque: #8E2424;
+    --cor-negrito: #101828;
+    --cor-fundo: #FFFFFF;
+
+    /* fonte */
+    --fonte-principal: 'Inter', sans-serif;
+}

@@ -1,0 +1,30 @@
+.contratacao {
+    padding: 120px 0 50px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contratacao_popup {
+    text-decoration: none;
+    color: var(--cor-destaque);
+    font-weight: 600;
+    background-color: #f9f4f4;
+    padding: 5px 15px;
+    border-radius: 16px;
+    font-size: 0.9rem;
+    align-items: center;
+    margin: 15px;
+}
+
+.contratacao_title {
+    font-size: 2.2rem;
+    color: var(--cor-negrito);
+    margin: 0;
+}
+
+.contratacao_subtitle {
+    padding: 20px 0 75px 0;
+    font-size: 1.25rem;
+    color: var(--cor-principal);
+}

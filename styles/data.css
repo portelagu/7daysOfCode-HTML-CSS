@@ -1,0 +1,25 @@
+.data {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 100px;
+}
+
+.data__container {
+    width: 270px;
+}
+
+.data__content {
+color: var(--cor-destaque);
+font-size: 3.5em;
+margin: 0;
+}
+
+.data__title {
+color: var(--cor-negrito);
+font-weight: 600;
+
+}
+
+.data__text {
+color: var(--cor-principal);
+}

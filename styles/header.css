@@ -1,0 +1,50 @@
+.nav_header  {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 130px;
+}
+
+.logo { 
+    display: flex;
+    margin: 0 20px 0 0;
+}
+
+.lista {
+    display: flex;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.lista__item {
+    list-style: none;
+    padding: 0 20px;
+}
+
+.lista__link {
+    text-decoration: none;
+    color: var(--cor-principal);
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.login {
+    display: flex;
+    font-size: 1rem;
+}
+
+.login__entrar {
+    text-decoration: none;
+    color: var(--cor-principal);
+    font-weight: 500;
+    margin: 20px;
+}
+
+.login__cadastrar {
+    text-decoration: none;
+    color: var(--cor-fundo);
+    font-weight: 500;
+    background-color:  var(--cor-destaque);
+    padding: 10px 18px;
+    border-radius: 8px;
+    margin: 10px;
+}
